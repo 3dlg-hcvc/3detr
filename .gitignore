@@ -11,3 +11,5 @@ utils/build/*
 outputs/
 
 datasets/scannet_detection_data
+
+*.pth
